@@ -39,6 +39,7 @@ body {
   outline: none;
   background-color: var(--button-background-color);
   border: solid 1px var(--button-border-color);
+  user-select: none;
 }
 
 .calculator--grid > button:hover,
